@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitPractice</string>
+    <string name="API">https://jsonplaceholder.typicode.com/photos</string>
+</resources>
