@@ -1,5 +1,5 @@
 
-package com.koteswara.retrofitpractice;
+package com.koteswara.retrofitpractice.simple.simple;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

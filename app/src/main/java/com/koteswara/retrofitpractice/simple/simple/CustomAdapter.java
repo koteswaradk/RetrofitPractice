@@ -1,4 +1,4 @@
-package com.koteswara.retrofitpractice;
+package com.koteswara.retrofitpractice.simple.simple;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -10,6 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.jakewharton.picasso.OkHttp3Downloader;
+import com.koteswara.retrofitpractice.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

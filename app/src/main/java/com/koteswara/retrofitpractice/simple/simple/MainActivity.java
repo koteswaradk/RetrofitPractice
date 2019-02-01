@@ -1,10 +1,12 @@
-package com.koteswara.retrofitpractice;
+package com.koteswara.retrofitpractice.simple.simple;
 
 import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+
+import com.koteswara.retrofitpractice.R;
 
 import java.util.List;
 

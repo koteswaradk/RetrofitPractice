@@ -1,4 +1,4 @@
-package com.koteswara.retrofitpractice;
+package com.koteswara.retrofitpractice.simple.simple;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
